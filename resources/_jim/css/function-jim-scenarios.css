@@ -1,0 +1,60 @@
+/*** Scenarios ***/
+
+.ui-scenario.ui-page-active {background-color: #D8D8D8;}
+#scenarioWrapper > div {position: absolute; display: table;}
+.transitionWrapper > svg {overflow: visible;}
+#simulation .ui-scenario.hideDevices .scenarioDevice {background-image: none;}
+
+/* Nodes */
+#scenarioWrapper .Page[value], #scenarioWrapper .OldPage {cursor: pointer;}
+#scenarioWrapper .Page[value]:hover, #scenarioWrapper .OldPage:hover {opacity: 0.5;}
+#scenarioWrapper .OldPage {opacity: 0.01; background-color: #ffffff;}
+#scenarioWrapper .nodeImage, #scenarioWrapper .pageImage {width: 100%;}
+#scenarioWrapper .nodeName {margin: 6px auto 4px auto; text-align: center;}
+#scenarioWrapper .nodeImage div {width: 36px; height: 36px; margin: 4px auto 0px auto;}
+
+#scenarioWrapper .scenarioScreenThumbnail { 
+    margin: 4px auto 0 auto;
+    display: block;
+    position: relative;
+}
+#scenarioWrapper img.scenarioScreenThumbnail {border: 1px solid #82888c;}
+#scenarioWrapper .scenarioDevice {margin: 4px auto 0 auto;}
+
+/* Note */
+#scenarioWrapper .Note {background-color: #EBECA3;}
+#scenarioWrapper .Note .valignmiddle {vertical-align: middle;}
+#scenarioWrapper .Note .valigntop {vertical-align: top;}
+#scenarioWrapper .Note .valignbottom {vertical-align: bottom;}
+#scenarioWrapper .Note .haligncenter { text-align: center;}
+#scenarioWrapper .Note .halignleft { text-align: left;}
+#scenarioWrapper .Note .halignright { text-align: right;}
+#scenarioWrapper .Note .clipping {margin: 5px;}
+#scenarioWrapper .Note .content > div {display: table-cell;}
+
+/* Image */
+#scenarioWrapper .Image > img {    
+    margin: 4px 4px 0 4px;
+}
+#scenarioWrapper .Image > .nodeName { height: 14px; }
+#scenarioWrapper div.scenarioScreenThumbnail {overflow: hidden; display: inline-block; background-repeat: no-repeat;}
+#scenarioWrapper .Image > svg {
+    position: relative;
+    margin: 4px 4px 0 4px;
+}
+
+
+/* Transition */
+#scenarioWrapper .scenarioEdge {position: absolute;}
+#scenarioWrapper .scenarioEdgeLine {position: absolute; height: 2px; background-color: #21C0C0;}
+#scenarioWrapper .transitionNameContainer {position: absolute; white-space: nowrap; padding: 4px; font-size: 0; transform: translate(-50%,-50%);}
+#scenarioWrapper .transitionNameContainer > * {display: inline-block; vertical-align: middle;}
+
+/* Thumbnail */
+#scenarioThumbnail #scenarioWrapper {
+  transform-origin: 50% 50%;
+  position: absolute;
+  margin: 0 0 0 0;
+  left: 50%;
+  top: 50%;
+}

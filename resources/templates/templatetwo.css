@@ -1,0 +1,15 @@
+#t-templatetwo > #backgroundBox {
+  background-color: #FFFFFF;
+  background-image: none;
+  position: absolute;
+}
+#t-templatetwo > #alignmentBox {
+  position: relative;
+  max-width: 1280px;
+  max-height: 1024px;
+}
+#t-templatetwo > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

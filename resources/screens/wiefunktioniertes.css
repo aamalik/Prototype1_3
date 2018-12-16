@@ -1,0 +1,2116 @@
+#s-wiefunktioniertes > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-wiefunktioniertes > #alignmentBox {
+  position: relative;
+  max-width: 1280px;
+  max-height: 1024px;
+}
+#s-wiefunktioniertes #s-Image_1 {
+  position: absolute;
+  width: 1208px;
+  height: 864px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Image_1 > img, #s-wiefunktioniertes #s-Image_1 > svg {
+  height: 864px;
+  width: 1208px;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_9 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_9 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 14.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_9 > .clipping, #s-wiefunktioniertes #s-Text_9 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_9 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_9 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_9 span#rtr-s-Text_9_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Button_13 > .backgroundLayer {
+  height: calc(100% + -4px);
+  width: calc(100% + -4px);
+  background-color: #04C1DE;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 6px 6px 6px 6px;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Button_13 {
+  position: absolute;
+  width: 209px;
+  height: 39px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 14.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Button_13 > .clipping, #s-wiefunktioniertes #s-Button_13 > .paddingLayer {
+  height: 29px;
+  width: 199px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+#s-wiefunktioniertes #s-Button_13 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #s-Button_13 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Button_13 span#rtr-s-Button_13_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_1 marker {
+  fill: #404040;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_1 {
+  position: absolute;
+  width: 676px;
+  height: 2px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Line_1 {
+  width: 676px;
+  height: 0px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  stroke-width: 2px;
+  stroke: #404040;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Group_1 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 > .shapert-clipping {
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 .content {
+  text-shadow: none;
+  width: 45px;
+  height: 45px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_4 {
+  width: 45px;
+  height: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #04CEEC;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_4 span#rtr-s-Ellipse_4_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 > .shapert-clipping {
+  width: 35px;
+  height: 35px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 .content {
+  text-shadow: none;
+  width: 35px;
+  height: 35px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_1 {
+  width: 35px;
+  height: 35px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #7CEACE;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_1 span#rtr-s-Ellipse_1_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Group_2 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 > .shapert-clipping {
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 .content {
+  text-shadow: none;
+  width: 45px;
+  height: 45px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_5 {
+  width: 45px;
+  height: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #04CEEC;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_5 span#rtr-s-Ellipse_5_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 > .shapert-clipping {
+  width: 35px;
+  height: 35px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 .content {
+  text-shadow: none;
+  width: 35px;
+  height: 35px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_2 {
+  width: 35px;
+  height: 35px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #7CEACE;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_2 span#rtr-s-Ellipse_2_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Group_5 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 > .shapert-clipping {
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 .content {
+  text-shadow: none;
+  width: 45px;
+  height: 45px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_6 {
+  width: 45px;
+  height: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #04CEEC;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_6 span#rtr-s-Ellipse_6_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 > .shapert-clipping {
+  width: 35px;
+  height: 35px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 .content {
+  text-shadow: none;
+  width: 35px;
+  height: 35px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_3 {
+  width: 35px;
+  height: 35px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #7CEACE;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_3 span#rtr-s-Ellipse_3_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_2 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: rgba(217,217,217,0.0);
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Rectangle_2 {
+  position: absolute;
+  width: 450px;
+  height: 102px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 23px;
+  font-size: 12.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Rectangle_2 > .clipping, #s-wiefunktioniertes #s-Rectangle_2 > .paddingLayer {
+  height: 102px;
+  width: 450px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_2 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Rectangle_2 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Rectangle_2 span#rtr-s-Rectangle_2_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_5 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_5 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_5 > .clipping, #s-wiefunktioniertes #s-Text_5 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_5 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_5 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_5 span#rtr-s-Text_5_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_2 marker {
+  fill: #404040;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_2 {
+  position: absolute;
+  width: 89px;
+  height: 2px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Line_2 {
+  width: 89px;
+  height: 0px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  stroke-width: 2px;
+  stroke: #404040;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Rectangle_3 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: rgba(217,217,217,0.0);
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Rectangle_3 {
+  position: absolute;
+  width: 446px;
+  height: 102px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 23px;
+  font-size: 12.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Rectangle_3 > .clipping, #s-wiefunktioniertes #s-Rectangle_3 > .paddingLayer {
+  height: 102px;
+  width: 446px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_3 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Rectangle_3 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Rectangle_3 span#rtr-s-Rectangle_3_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_5 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: rgba(217,217,217,0.0);
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Rectangle_5 {
+  position: absolute;
+  width: 481px;
+  height: 102px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 23px;
+  font-size: 12.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Rectangle_5 > .clipping, #s-wiefunktioniertes #s-Rectangle_5 > .paddingLayer {
+  height: 102px;
+  width: 481px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_5 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Rectangle_5 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Rectangle_5 span#rtr-s-Rectangle_5_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_6 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: rgba(217,217,217,0.0);
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Rectangle_6 {
+  position: absolute;
+  width: 477px;
+  height: 102px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 23px;
+  font-size: 12.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Rectangle_6 > .clipping, #s-wiefunktioniertes #s-Rectangle_6 > .paddingLayer {
+  height: 102px;
+  width: 477px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_6 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Rectangle_6 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Rectangle_6 span#rtr-s-Rectangle_6_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_7 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_7 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_7 > .clipping, #s-wiefunktioniertes #s-Text_7 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_7 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_7 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_7 span#rtr-s-Text_7_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_7 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: rgba(217,217,217,0.0);
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Rectangle_7 {
+  position: absolute;
+  width: 443px;
+  height: 102px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 23px;
+  font-size: 12.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Rectangle_7 > .clipping, #s-wiefunktioniertes #s-Rectangle_7 > .paddingLayer {
+  height: 102px;
+  width: 443px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_7 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Rectangle_7 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Rectangle_7 span#rtr-s-Rectangle_7_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_8 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_8 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 36.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_8 > .clipping, #s-wiefunktioniertes #s-Text_8 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_8 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_8 span {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 36.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_8 span#rtr-s-Text_8_0 {
+  color: #434343;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 36.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Image_2 {
+  position: absolute;
+  width: 329px;
+  height: 114px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Image_2 > img, #s-wiefunktioniertes #s-Image_2 > svg {
+  height: 114px;
+  width: 329px;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_1 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 14.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_1 > .clipping, #s-wiefunktioniertes #s-Text_1 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_1 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_2 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_2 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 14.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_2 > .clipping, #s-wiefunktioniertes #s-Text_2 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_2 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_2 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_2 span#rtr-s-Text_2_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_3 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_3 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 14.000001pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_3 > .clipping, #s-wiefunktioniertes #s-Text_3 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_3 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_3 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.000001pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_3 span#rtr-s-Text_3_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.000001pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_4 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_4 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 14.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_4 > .clipping, #s-wiefunktioniertes #s-Text_4 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_4 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_4 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_4 span#rtr-s-Text_4_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 14.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Rectangle_1 > .backgroundLayer {
+  height: calc(100% + -2px);
+  width: calc(100% + -2px);
+  background-color: #FFFFFF;
+  background-image: none;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Rectangle_1 {
+  position: absolute;
+  width: 180px;
+  height: 122px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Arial',Arial;
+}
+#s-wiefunktioniertes #s-Rectangle_1 > .clipping, #s-wiefunktioniertes #s-Rectangle_1 > .paddingLayer {
+  height: 120px;
+  width: 178px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+#s-wiefunktioniertes #s-Rectangle_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #s-Rectangle_1 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Rectangle_1 span#rtr-s-Rectangle_1_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Image_3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Image_3 > img, #s-wiefunktioniertes #s-Image_3 > svg {
+  height: 100px;
+  width: 100px;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Group_3 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 > .shapert-clipping {
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 .content {
+  text-shadow: none;
+  width: 45px;
+  height: 45px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_7 {
+  width: 45px;
+  height: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #04CEEC;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_7 span#rtr-s-Ellipse_7_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 > .shapert-clipping {
+  width: 35px;
+  height: 35px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 .content {
+  text-shadow: none;
+  width: 35px;
+  height: 35px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_8 {
+  width: 35px;
+  height: 35px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #7CEACE;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_8 span#rtr-s-Ellipse_8_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Group_4 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 > .shapert-clipping {
+  width: 45px;
+  height: 45px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 .content {
+  text-shadow: none;
+  width: 45px;
+  height: 45px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_9 {
+  width: 45px;
+  height: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #04CEEC;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_9 span#rtr-s-Ellipse_9_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 > .shapert-clipping {
+  width: 35px;
+  height: 35px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 .content {
+  text-shadow: none;
+  width: 35px;
+  height: 35px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 > svg {
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Ellipse_10 {
+  width: 35px;
+  height: 35px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #7CEACE;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #shapewrapper-s-Ellipse_10 span#rtr-s-Ellipse_10_0 {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_10 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_10 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_10 > .clipping, #s-wiefunktioniertes #s-Text_10 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_10 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_10 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_10 span#rtr-s-Text_10_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_5 marker {
+  fill: #404040;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_5 {
+  position: absolute;
+  width: 89px;
+  height: 2px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Line_5 {
+  width: 89px;
+  height: 0px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  stroke-width: 2px;
+  stroke: #404040;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_11 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_11 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_11 > .clipping, #s-wiefunktioniertes #s-Text_11 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_11 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_11 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_11 span#rtr-s-Text_11_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_6 marker {
+  fill: #404040;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_6 {
+  position: absolute;
+  width: 89px;
+  height: 2px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Line_6 {
+  width: 89px;
+  height: 0px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  stroke-width: 2px;
+  stroke: #404040;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_12 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_12 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_12 > .clipping, #s-wiefunktioniertes #s-Text_12 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_12 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_12 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_12 span#rtr-s-Text_12_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_7 marker {
+  fill: #404040;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_7 {
+  position: absolute;
+  width: 89px;
+  height: 2px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Line_7 {
+  width: 89px;
+  height: 0px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  stroke-width: 2px;
+  stroke: #404040;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_8 marker {
+  fill: #404040;
+}
+#s-wiefunktioniertes #shapewrapper-s-Line_8 {
+  position: absolute;
+  width: 89px;
+  height: 2px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-wiefunktioniertes #s-Line_8 {
+  width: 89px;
+  height: 0px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  stroke-width: 2px;
+  stroke: #404040;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_13 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_13 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_13 > .clipping, #s-wiefunktioniertes #s-Text_13 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_13 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_13 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_13 span#rtr-s-Text_13_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_14 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_14 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_14 > .clipping, #s-wiefunktioniertes #s-Text_14 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_14 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_14 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_14 span#rtr-s-Text_14_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes #s-Text_15 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-wiefunktioniertes #s-Text_15 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Handel Becker Light',Arial;
+}
+#s-wiefunktioniertes #s-Text_15 > .clipping, #s-wiefunktioniertes #s-Text_15 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-wiefunktioniertes #s-Text_15 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-wiefunktioniertes #s-Text_15 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-wiefunktioniertes #s-Text_15 span#rtr-s-Text_15_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Handel Becker Light',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-wiefunktioniertes > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
