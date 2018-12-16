@@ -273,7 +273,6 @@
         .fail(function(target, args) {
           /*jimUtil.debug(errorThrown);*/
           transition.releaseLock();
-          window.location.replace(jimUtil.isChromeLocal() ? "resources/_jim/html/chrome.html" : "resources/_jim/html/error.html");
         });
     } else {
       var url = settings.url || "",

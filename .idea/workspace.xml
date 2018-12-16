@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8023486-4fd3-4f20-9d8b-b2bc26a50286" name="Default Changelist" comment="" />
+    <list default="true" id="d8023486-4fd3-4f20-9d8b-b2bc26a50286" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/css/function-jim-annotation.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_jim/css/function-jim-annotation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/chrome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/images/extension.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/images/install_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/images/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/images/view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/resources/OpenSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/resources/OpenSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/html/resources/OpenSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/arrow-submenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/browse-disabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/browse-enabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/cross.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/crossimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/date-time.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/date.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/dropdown-disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/dropdown-enabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/lastnode.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/leafnode.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/time.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/transparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/common/treeline.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/navigationtree/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/action@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/decision.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/decision@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/screen@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/scenarios/warning@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/sidepanel/logo-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/sidepanel/logo-white@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/sidepanel/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/sidepanel/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/images/sidepanel/nopicture_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/javascript/function-jim-annotation.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_jim/javascript/function-jim-annotation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_jim/javascript/function-jim-main.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_jim/javascript/function-jim-main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/screens/vorteile.html" beforeDir="false" afterPath="$PROJECT_DIR$/review/screens/vorteile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review/screens/wiefunktioniertes.html" beforeDir="false" afterPath="$PROJECT_DIR$/review/screens/wiefunktioniertes.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +99,36 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-443521667">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="1" />
+          <entry key="js" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/_jim/css/function-external-jquery-ui.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="182" column="54" lean-forward="true" selection-start-line="182" selection-start-column="54" selection-end-line="182" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5445">
-              <caret line="363" column="79" selection-start-line="363" selection-start-column="79" selection-end-line="363" selection-end-column="79" />
+            <state relative-caret-position="184">
+              <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
               <folding>
                 <element signature="e#2884#2890#1" expanded="true" />
                 <element signature="e#3196#3202#1" expanded="true" />
@@ -82,55 +142,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review/screens/vorteile.html">
+        <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="218">
+              <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review/screens/unterstutzen.html">
+        <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-pin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review/screens/exportfinanzierung.html">
+        <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-rendercomponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review/screens/wiefunktioniertes.html">
+        <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-scenarios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review/includes/include.js">
+        <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-shapes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/review/includes/include.css">
+        <entry file="file://$PROJECT_DIR$/resources/scenarios/scenarioone.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="45">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -138,17 +210,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/screens/exportfinanzierung.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="875" column="20" lean-forward="true" selection-start-line="875" selection-start-column="20" selection-end-line="875" selection-end-column="20" />
+            <state relative-caret-position="860">
+              <caret line="875" column="20" selection-start-line="875" selection-start-column="20" selection-end-line="875" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/_jim/html/chrome.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/screens/exportfinanzierung.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="405">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/scenarios/function-jim-links.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -157,13 +238,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Exportkredite direkt an ihre internationalen Handelspartner oder Refinanzierung ihrer eigenen For</find>
-      <find>direkt</find>
       <find>include-</find>
       <find>common/</find>
-      <find>_jim/images</find>
       <find>_jim/</find>
-      <find>_jim/javascript</find>
       <find>_jim/j</find>
       <find>includes/</find>
       <find>screens/</find>
@@ -187,6 +264,10 @@
       <find>bb8abf58-f55e-472d-af05-a7d1bb0cc014</find>
       <find>1539112046261</find>
       <find>-1539112046261</find>
+      <find>_jim/images</find>
+      <find>_jim/html</find>
+      <find>_jim/javascript</find>
+      <find>ie</find>
     </findStrings>
     <replaceStrings>
       <replace>vorteile</replace>
@@ -198,6 +279,9 @@
       <replace>templateone</replace>
       <replace>scenarioone</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -217,13 +301,14 @@
         <option value="$PROJECT_DIR$/resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1539112046261.css" />
         <option value="$PROJECT_DIR$/resources/templates/templatethree-1539112046261.css" />
         <option value="$PROJECT_DIR$/resources/lookup-1539112046261.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/review/screens/vorteile.html" />
         <option value="$PROJECT_DIR$/review/screens/unterstutzen.html" />
         <option value="$PROJECT_DIR$/review/screens/exportfinanzierung.html" />
         <option value="$PROJECT_DIR$/review/screens/wiefunktioniertes.html" />
         <option value="$PROJECT_DIR$/review/includes/include-1539112046261.js" />
         <option value="$PROJECT_DIR$/review/includes/include-1539112046261.css" />
+        <option value="$PROJECT_DIR$/resources/_jim/javascript/function-jim-main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -239,11 +324,13 @@
     <option name="width" value="1688" />
     <option name="height" value="1011" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,13 +348,6 @@
               <item name="Prototype1_3" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="_jim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Prototype1_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Prototype1_3" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="_jim" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Prototype1_3" type="b2602c69:ProjectViewProjectNode" />
@@ -312,7 +392,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,23 +424,20 @@
       <option name="presentableId" value="Default" />
       <updated>1544798392941</updated>
       <workItem from="1544798394405" duration="7776000" />
+      <workItem from="1544972845807" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7776000" />
+    <option name="totallyTimeSpent" value="8380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-348" y="-1057" width="1688" height="1011" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3037667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3074119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -369,10 +445,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -408,28 +489,12 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/review/includes/include.js</url>
           <line>33</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/_jim/images/sidepanel/logo-white@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/_jim/images/sidepanel/nopicture_icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/_jim/images/scenarios/warning@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/_jim/images/scenarios/warning.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/_jim/images/scenarios/screen@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/_jim/images/scenarios/screen.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -482,16 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-scenarios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/fonts.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -502,24 +557,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/screens/exportfinanzierung.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/screens/wiefunktioniertes.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scenarios/function-jim-links.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -575,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scenarios/scenarioone.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/_jim/css/function-jim-annotation.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -599,51 +633,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/_jim/css/function-external-jquery-ui.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="182" column="54" lean-forward="true" selection-start-line="182" selection-start-column="54" selection-end-line="182" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5445">
-          <caret line="363" column="79" selection-start-line="363" selection-start-column="79" selection-end-line="363" selection-end-column="79" />
-          <folding>
-            <element signature="e#2884#2890#1" expanded="true" />
-            <element signature="e#3196#3202#1" expanded="true" />
-            <element signature="e#3549#3555#1" expanded="true" />
-            <element signature="e#3894#3900#1" expanded="true" />
-            <element signature="e#4251#4257#1" expanded="true" />
-            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="2730">
+          <caret line="182" column="54" selection-start-line="182" selection-start-column="54" selection-end-line="182" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/review/screens/vorteile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/review/screens/unterstutzen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/review/screens/exportfinanzierung.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/review/screens/wiefunktioniertes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="300">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -661,17 +673,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/screens/exportfinanzierung.css">
+    <entry file="file://$PROJECT_DIR$/resources/_jim/html/chrome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="875" column="20" lean-forward="true" selection-start-line="875" selection-start-column="20" selection-end-line="875" selection-end-column="20" />
+        <state relative-caret-position="240">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/_jim/html/chrome.html">
+    <entry file="file://$PROJECT_DIR$/review/screens/exportfinanzierung.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="573">
+          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-pin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-rendercomponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-scenarios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-shapes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/scenarios/function-jim-links.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/scenarios/scenarioone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/screens/exportfinanzierung.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="875" column="20" selection-start-line="875" selection-start-column="20" selection-end-line="875" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/screens/exportfinanzierung.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/_jim/javascript/function-jim-main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="82" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
+          <folding>
+            <element signature="e#2884#2890#1" expanded="true" />
+            <element signature="e#3196#3202#1" expanded="true" />
+            <element signature="e#3549#3555#1" expanded="true" />
+            <element signature="e#3894#3900#1" expanded="true" />
+            <element signature="e#4251#4257#1" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

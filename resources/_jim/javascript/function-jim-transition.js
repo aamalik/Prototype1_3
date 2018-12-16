@@ -69,9 +69,6 @@
         var styleBlock = document.createElement( "style" ),
             cssrule = "@media " + query + " { #jquery-mediatest { position:absolute; } }";
 
-        //must set type for IE!
-        styleBlock.type = "text/css";
-
         if(styleBlock.styleSheet) {
           styleBlock.styleSheet.cssText = cssrule;
         } else {

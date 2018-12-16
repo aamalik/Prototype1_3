@@ -158,7 +158,6 @@
   
     function removeDialogImage(){
 	$("#dialog-user-img").addClass("nopicture");
-	$("#dialog-user-img").attr('src','./resources/_jim/images/sidepanel/nopicture_icon.png');
 	$("#change-img-clipping span").text("UPLOAD PICTURE");
 	//replace file input
 	jQuery("#user-dialog .input-file").replaceWith("<input type='file' class='input-file' name='file' value='' tabindex='-1' />");
@@ -1148,7 +1147,6 @@
 	$userDialog.find("#dialog-user-name").val($("#sidepanel #user-name").text());
 	$("#sidepanel #user-image").hasClass("nopicture") ? $userDialog.find("#dialog-user-img").addClass("nopicture") : $userDialog.find("#dialog-user-img").removeClass("nopicture");
 	$("#sidepanel #user-image").hasClass("nopicture") ? $userDialog.find("#change-img-clipping span").text("UPLOAD PICTURE") : $userDialog.find("#change-img-clipping span").text("CHANGE PICTURE");
-	$("#sidepanel #user-image").hasClass("nopicture") ? $userDialog.find("#dialog-user-img").attr("src","./resources/_jim/images/sidepanel/nopicture_icon.png") : $userDialog.find("#dialog-user-img").attr("src",$("#sidepanel #user-image").css("background-image").replace(/(url\("|"\))/g,""));
 	$userDialog.find("#dialog-user-id").val($("#sidepanel #user-id").val());
     $userDialog.removeClass(hiddenClass);
   }

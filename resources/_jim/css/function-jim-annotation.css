@@ -259,8 +259,6 @@
 form.attachment .file { position: absolute; top: 0; left: 0; height: 13px; opacity: 0; filter: alpha(opacity = "0"); -ms-filter: alpha(opacity = "0"); cursor: pointer; width:100px;}
 .groupComments form.attachment { display: inline; }
 .replier form.attachment, .editormode form.attachment { top: -1px; } 
-.groupComments form.attachment .file { left: -10px\9; /* IE only */ }
-#dialog form.attachment .file { left: -20px\9; /* IE only */ }
 form.attachment .delete_attach{
     display: none;
     vertical-align: middle;
