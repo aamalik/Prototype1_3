@@ -4,8 +4,6 @@
     "unterstutzen": "Fold4",
     "vorteile": "Fold2v1",
     "exportfinanzierung": "Fold1v2",
-    "templateone": "960 grid - 16 columns",
-    "templatethree": "960 grid - 12 columns",
     "templatetwo": "Template 1",
     "scenarioone": "default"
   };
